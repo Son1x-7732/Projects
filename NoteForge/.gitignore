@@ -1,0 +1,10 @@
+build/
+.vscode/
+.idea/
+.cache/
+*.o
+*.a
+*.so
+*.user
+*.autosave
+compile_commands.json
